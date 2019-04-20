@@ -23,3 +23,9 @@ Each review has a star rating. For this assignment, we will assume that 1-star t
       performance on the data from “Category B”.
    b. Train a classification model on the data from “Category B”, and evaluate its
       performance on the data from “Category A”. 
+
+
+![Screenshot 2019-04-20 at 1 45 07 PM](https://user-images.githubusercontent.com/29053730/56457422-a2c8c900-6372-11e9-8ef6-a84efc1af109.png)
+
+
+![Screenshot 2019-04-20 at 1 45 22 PM](https://user-images.githubusercontent.com/29053730/56457423-a2c8c900-6372-11e9-992a-f2c6a8444c01.png)
